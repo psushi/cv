@@ -47,6 +47,8 @@ __Indian Institute of Technology Kharagpur__
 - Contracts developed across EVM-compatible chains and Solana.
 - Working on UI integration and general engineering.
 
+
+<span class="date">Jun 2021 - Jun 2022</span>
 ### __EXL__ --  _Data science consultant_
 
 - Built multiple clustering models to perform customer segmentation, and derived valuable insights.
