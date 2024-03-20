@@ -1,86 +1,74 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Susheendhar's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Susheendhar Vijay
+Applied Cryptographer | Rust | Multi Party Computation
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://twitter.com/statemachines_">Twitter</a>
+| <a href="https://github.com/psushi">GitHub</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
+<hr/>
+<span class="date">2016-2021</span>
+__Indian Institute of Technology Kharagpur__  
+<p>Integrated 5 yr. MSc. in Mathematics and Computing</p>
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+## Experience 
+<hr/>
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### __Silence Laboratories__ -- _Applied cryptographer (Rust)_
+- Contributed to the development and launch of MetaMask [Silent Shard Snap](https://snaps.metamask.io/snap/npm/silencelaboratories/silent-shard-snap/), one of the first live snaps, accumulating over 11,000 downloads on npm.
+- Authored the Snap package, designed its communication protocols and backup architecture.
+- Implemented and maintaining the Two-Party threshold signature library in Rust.
+- Worked on the cryptograpy and communication design for the fastest Multi-Party Threshold Signature library, [announced](https://www.youtube.com/watch?v=Su_4qlFHUyM) at ETH CC 
+- Code security audited by industry-leading firms [Cure53](https://cure53.de/) and [Trail of Bits](https://www.trailofbits.com/)
+- Gave a [talk](https://www.youtube.com/watch?v=ExW13gD5pLE&list=PLUVZ-xc5r7-wj-dXi0uSXckI7LzjnZxGA&index=22) at [DeCompute 2023](https://www.decompute.org/) introducing our Two-Party library.
 
 
-## Occupation
+<span class="date">May 2022 - Dec 2022</span>
 
-`1600`
-__Royal Mint__, London
+### __Lighthouse__ -- _Smart Contract developer_
 
-- Warden
-- Minted coins
+- Buit the core smart contracts for the [Lighthouse protocol](https://www.lighthouse.xyz/).
+- Contracts developed across EVM-compatible chains and Solana.
+- Working on UI integration and general engineering.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### __EXL__ --  _Data science consultant_
+
+- Built multiple clustering models to perform customer segmentation, and derived valuable insights.
+- Built and maintained dashboards for data rich visualizations.
+
+
+## Projects
+<hr>
+
+### __Stargaze__ (_Solidity_)
+<span class="date"><a href="https://ethglobal.com/showcase/stargaze-igmkq">ethglobal/stargaze</a></span>
+- Won 1st place with Optimism (most optimistic hack) and Superfluid Finance (best project) at [ETH NYC 2022](https://nyc.ethglobal.co/). 
+- A simple, seamless way to distribute funds between contributors of an open-source project. 
+- After every code contribution, a GitHub action is run to update an on-chain contribution score.
+- When someone donates to the project, instantly distribute the funds to contributors proportional to their contribution.  
+
+
+<span class="date"><a href="https://github.com/foundry-rs/foundry">foundry-rs/foundry</a></span>
+### __Foundry__ (_Rust_)
+- [Contributing](https://github.com/foundry-rs/foundry/commits?author=psushi) at Foundry, a fast, portable and modular toolkit for Ethereum application development written in Rust.
+
+
+<span class="date"><a href="https://github.com/pbshgthm/theunstoppableshop">theunstoppableshop</a></span>
+### __The Unstoppable shop__ _(Solidity)_
+- General and Filecoin prize pool winner at Polygon’s 2021 web3 Hackathon, BUIDL IT.
+- Built a decentralized, peer-to-peer digital marketplace protocol, without escrows.
+- File storage using Filecoin, and secure delivery of content using Chainlink external adapters.
+
+
+
 
 
 
