@@ -9,24 +9,32 @@ Applied Cryptographer | Rust | Multi Party Computation
 <div id="webaddress">
 <a href="https://twitter.com/statemachines_">Twitter</a>
 | <a href="https://github.com/psushi">GitHub</a>
+    | susheendharvj@gmail.com | +91 9944383111
 </div>
 
 
 ## Education
 <hr/>
-<span class="date">2016-2021</span>
+<span class="date">2016 - 2021</span>
 __Indian Institute of Technology Kharagpur__  
 <p>Integrated 5 yr. MSc. in Mathematics and Computing</p>
+
+## Skills
+<hr/>
+- __Languages__:  Rust, Solidity, Go, JavaScript, Python, C/C++, SQL, HTML, CSS, 
+- __Platforms/Libraries__: TypeScript, React (+Next), Ethers/Viem, Hardhat, Dapptools/Foundry
 
 ## Experience 
 <hr/>
 
 
+<span class="date">Dec 2022 - present</span>
 ### __Silence Laboratories__ -- _Applied cryptographer (Rust)_
 - Contributed to the development and launch of MetaMask [Silent Shard Snap](https://snaps.metamask.io/snap/npm/silencelaboratories/silent-shard-snap/), one of the first live snaps, accumulating over 11,000 downloads on npm.
 - Authored the Snap package, designed its communication protocols and backup architecture.
 - Implemented and maintaining the Two-Party threshold signature library in Rust.
-- Worked on the cryptograpy and communication design for the fastest Multi-Party Threshold Signature library, [announced](https://www.youtube.com/watch?v=Su_4qlFHUyM) at ETH CC 
+- Exposed low-level WASM and C bindings for the library, to be used in other platforms.
+- Worked on the cryptography and communication design for the fastest Multi-Party Threshold Signature library, [announced](https://www.youtube.com/watch?v=Su_4qlFHUyM) at ETH CC 
 - Code security audited by industry-leading firms [Cure53](https://cure53.de/) and [Trail of Bits](https://www.trailofbits.com/)
 - Gave a [talk](https://www.youtube.com/watch?v=ExW13gD5pLE&list=PLUVZ-xc5r7-wj-dXi0uSXckI7LzjnZxGA&index=22) at [DeCompute 2023](https://www.decompute.org/) introducing our Two-Party library.
 
